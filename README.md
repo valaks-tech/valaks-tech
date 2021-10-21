@@ -1,6 +1,8 @@
 ### I'm [Shailaja]
 
-Message Engineering Lead @ Morgan Stanley. I am passionate about problem solving and providing reliable, scalable infrastructure solutions.
+* Message Engineering Lead @ Morgan Stanley
+* Passionate about problem solving and providing reliable, scalable infrastructure solutions.
+* Amateur Blogger
 
 ### I'm Currently
 

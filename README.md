@@ -15,5 +15,6 @@
 - Middleware : IBM MQ, IBM REST API, RDQM(Replicated Data Queue Manager), AMS(Advanced Message Security)
 - Databases : Sybase, MySQL, Oracle, DB2
 - Languages : Python, Perl, JavaScript, Shell Script, C, SQL/ PL-SQL, CSS, Ajax, jQuery
+- Filesystem/storage management: SAN, iSCSI, NAS, AFS(Andrew File System)
 - DataStructures & Algorithms
 - Capacity Planning, Infrastructure Engineering

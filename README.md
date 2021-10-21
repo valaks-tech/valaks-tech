@@ -13,7 +13,7 @@
 
 ### Skills aquired over the past few years ( contd...)
 - Middleware : IBM MQ, IBM REST API, RDQM(Replicated Data Queue Manager), AMS(Advanced Message Security)
-- Databases : Sybase, MySQL, Oracle, DB2
+- Databases : Sybase, MySQL, Oracle, DB2, Postgres
 - Languages : Python, Perl, JavaScript, Shell Script, C, SQL/ PL-SQL, CSS, Ajax, jQuery
 - Filesystem/storage management: SAN, iSCSI, NAS, AFS(Andrew File System)
 - Security/Auth: SSL/TLS,LDAP,Kerberos

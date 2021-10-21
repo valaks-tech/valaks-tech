@@ -1,6 +1,6 @@
 ### I'm [Shailaja]
 
-Message Engineering Lead @ Morgan Stanley. I love building applications & discussing new product ideas/technologies.
+Message Engineering Lead @ Morgan Stanley. I am passionate about problem solving and providing reliable, scalable infrastructure solutions.
 
 ### I'm Currently
 

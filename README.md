@@ -2,7 +2,7 @@
 
 
 * Message Engineering Lead @ Morgan Stanley
-* Passionate about problem solving and providing reliable, scalable infrastructure solutions.
+* Passionate about problem solving and providing reliable, scalable infrastructure solutions
 * Amateur Blogger
 
 ### I'm Currently

@@ -8,7 +8,7 @@ Message Engineering Lead @ Morgan Stanley. I am passionate about problem solving
 - 📚 Learning to build applications using cloud technologies(AWS,GCP)
 - 👷🏽‍♂️ Setting up my tech blog ﹣ https://svalaks.medium.com/
 
-### Skills aquired over the past years
+### Skills aquired over the past few years
 - Middleware : IBM MQ, IBM REST API, RDQM(Replicated Data Queue Manager), AMS(Advanced Message Security)
 - Databases : Sybase, MySQL, Oracle
 - Languages : Python, Perl, JavaScript, Shell Script, C

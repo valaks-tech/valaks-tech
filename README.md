@@ -14,6 +14,6 @@
 ### Skills aquired over the past few years ( contd...)
 - Middleware : IBM MQ, IBM REST API, RDQM(Replicated Data Queue Manager), AMS(Advanced Message Security)
 - Databases : Sybase, MySQL, Oracle, DB2
-- Languages : Python, Perl, JavaScript, Shell Script, C
+- Languages : Python, Perl, JavaScript, Shell Script, C, SQL/ PL-SQL, CSS, Ajax, jQuery
 - DataStructures & Algorithms
 - Capacity Planning, Infrastructure Engineering

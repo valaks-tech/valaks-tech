@@ -7,8 +7,8 @@
 
 ### I'm Currently
 
-- 📱 Doing hands-on Data Engineering lab exercises using Python,JupyterLab,Spark
-- 📚 Learning to build applications using cloud technologies(AWS,GCP)
+- 📱 Learning docker / kubernetes - installation, management from DevOps perspective [ Udemy courses ]
+- 📚 Hands-on exercises - python API building, pandas etc
 - 👷🏽‍♂️ Setting up my tech blog ﹣ https://svalaks.medium.com/
 
 ### Skills aquired over the past few years ( contd...)

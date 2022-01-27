@@ -9,7 +9,7 @@
 - Master API building, data scraping/data science techniques using libraries like pandas, NumPy
 - Cloud certification (AWS) , Learn docker/kubernetes
 - Finish all 15 signed up courses from Udemy :-)
-- 
+
 ### I'm Currently
 
 - 📱 Learning docker / kubernetes - installation, management from DevOps perspective [ Udemy courses ]

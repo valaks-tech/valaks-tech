@@ -14,12 +14,13 @@
 
 - 📱 Learning docker / kubernetes - installation, management from DevOps perspective [ Udemy courses ]
 - 📚 Hands-on exercises - python API building, pandas etc
-- 👷🏽‍♂️ Setting up my tech blog ﹣ https://svalaks.medium.com/
+- 👷🏽‍♂️ Started a tech blog for algorithms/data structures/coding interviews ﹣ https://svalaks.medium.com/
+- 👷🏽‍♂️ Personal blog - https://medium.com/@shaila.hegde
 
 ### Skills aquired over the past few years ( contd...)
 - Middleware : IBM MQ, IBM REST API, RDQM(Replicated Data Queue Manager), AMS(Advanced Message Security)
 - Databases : Sybase, MySQL, Oracle, DB2, Postgres
-- Languages : Python, Perl, JavaScript, Shell Script, C, SQL/ PL-SQL, CSS, Ajax, jQuery
+- Languages : Python, Perl, JavaScript, Shell Script, SQL/ PL-SQL, CSS, Ajax, jQuery
 - Filesystem/storage management: SAN, iSCSI, NAS, AFS(Andrew File System)
 - Security/Auth: SSL/TLS,LDAP,Kerberos
 - DataStructures & Algorithms

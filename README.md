@@ -12,7 +12,7 @@
 
 ### I'm Currently
 
-- 📱 Learning docker / kubernetes - installation, management from DevOps perspective [ Udemy courses ]
+- 📱 Learning docker / kubernetes - installation, management [ Udemy courses ]
 - 📚 Hands-on exercises - python API building, pandas etc
 - 👷🏽‍♂️ Started a tech blog for algorithms/data structures/coding interviews ﹣ https://svalaks.medium.com/
 - 👷🏽‍♂️ Personal blog - https://medium.com/@shaila.hegde

@@ -8,7 +8,7 @@
 ### Goals2022
 - Master API building, data scraping/data science techniques using libraries like pandas, NumPy
 - Cloud certification (AWS) , Learn docker/kubernetes
-- Finish all 15 signed up courses from Udemy :-)
+- Finish all 15 signed up courses from Udemy
 
 ### I'm Currently
 

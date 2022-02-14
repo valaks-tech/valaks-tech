@@ -18,7 +18,7 @@ journey
       AWS Certification: 5: To-Do
     section Mastering Python, Go
       Data Engineering Essentials Hands on: 5: In-Progress
-      Go : The Complete Developer's Guide: 5: In-Progress
+      Learning Golang: 5: In-Progress
  ``` 
 ### I'm Currently
 

@@ -1,6 +1,4 @@
 ### I'm [Shailaja]   [[Linkedin]](https://www.linkedin.com/in/svalakatte/)
-
-
 * Currently a Message Engineering Lead @ Morgan Stanley
 * Passionate about problem solving and providing reliable, scalable infrastructure solutions
 * Amateur Blogger
@@ -21,7 +19,6 @@ journey
       Learning Golang: 5: In-Progress
  ``` 
 ### I'm Currently
-
 - 📱 Learning docker / kubernetes - installation, management [ Udemy courses ]
 - 📚 Hands-on exercises - python API building, pandas etc
 - 👷🏽‍♂️ Started a tech blog for algorithms/data structures/coding interviews ﹣ https://svalaks.medium.com/
@@ -35,5 +32,3 @@ journey
 - Security/Auth: SSL/TLS,LDAP,Kerberos
 - DataStructures & Algorithms
 - Capacity Planning, Infrastructure Engineering, Benchmarking and Performance Tuning
-
-

@@ -15,9 +15,9 @@ journey
     section Learning Docker/Kubernetes
       Docker Basics: 5: Done
       Docker Mastery with Kubernetes + Swarm: 5: InProgress
-    section Hands On with Python, Apache Spark, PostgreSQL etc.
-      Data Engineering Essentials Hands on: 5: InProgress
       AWS Certification: 5: ToDo
+    section Mastering Python modules
+      Data Engineering Essentials Hands on: 5: InProgress
  ``` 
 ### I'm Currently
 

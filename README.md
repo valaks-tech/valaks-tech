@@ -14,10 +14,11 @@ journey
     title My Learning Progress'22
     section Learning Docker/Kubernetes
       Docker Basics: 5: Done
-      Docker Mastery with Kubernetes + Swarm: 5: InProgress
-      AWS Certification: 5: ToDo
-    section Mastering Python modules
-      Data Engineering Essentials Hands on: 5: InProgress
+      Docker Mastery with Kubernetes + Swarm: 5: In-Progress
+      AWS Certification: 5: To-Do
+    section Mastering Python, Go
+      Data Engineering Essentials Hands on: 5: In-Progress
+      Go : The Complete Developer's Guide: 5: In-Progress
  ``` 
 ### I'm Currently
 

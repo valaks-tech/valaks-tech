@@ -25,3 +25,12 @@
 - Security/Auth: SSL/TLS,LDAP,Kerberos
 - DataStructures & Algorithms
 - Capacity Planning, Infrastructure Engineering, Benchmarking and Performance Tuning
+
+```mermaid
+journey
+    title Learning Progress'22
+    section Learning Docker/Kubernetes
+      Docker Basics: 5: Done
+      Docker Mastery with Kubernetes + Swarm: 5: InProgress
+      Data Engineering Essentials Hands on: 5: InProgress
+ ```

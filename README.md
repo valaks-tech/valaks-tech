@@ -28,7 +28,7 @@
 
 ```mermaid
 journey
-    title Learning Progress'22
+    title My Learning Progress'22
     section Learning Docker/Kubernetes
       Docker Basics: 5: Done
       Docker Mastery with Kubernetes + Swarm: 5: InProgress

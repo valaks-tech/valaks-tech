@@ -1,5 +1,5 @@
-### I'm [Shailaja]   [[Linkedin]](https://www.linkedin.com/in/svalakatte/) [[Leetcode]](https://leetcode.com/svalak/)  [[HackerRank]](https://www.hackerrank.com/shailaja_v)
-* Currently a Message Engineering Lead @ Morgan Stanley
+### I'm [Shailaja]   [[Linkedin]](https://www.linkedin.com/in/svalakatte/) 
+* Message Engineering Lead @ Morgan Stanley
 * Passionate about problem solving and providing reliable, scalable infrastructure solutions
 * Amateur Blogger
 

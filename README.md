@@ -4,7 +4,7 @@
 * Amateur Blogger
 
 
-### Skills aquired over the past few years ( contd...)
+### Skills aquired over the past few years :
 Operating Systems: 
 Red Hat Linux, Windows, Sun Solaris
 

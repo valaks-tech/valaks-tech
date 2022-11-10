@@ -15,7 +15,7 @@ Monitoring/Logging:
 Prometheus, Grafana/Loki/Jaeger, Splunk
 
 Configuration Management tools: 
-Make, ANT, Ansible/jinja2
+Make, ANT, Ansible
 
 Programming: 
 Python, Perl, Unix Shell Scripting, SQL/ PL-SQL, JavaScript, CSS, Ajax, jQuery
